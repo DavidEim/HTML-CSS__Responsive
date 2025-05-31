@@ -107,12 +107,7 @@ header .nav__item:hover{
 
 .menu .user{
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
     padding: 0 0 10px 0;
-}
-
-.menu .user a{
-    display: block;
-    line-height: 50px;
-    padding: 0px 0 0px 10px;
 }
